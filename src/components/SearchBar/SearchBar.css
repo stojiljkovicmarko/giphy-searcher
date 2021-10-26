@@ -1,0 +1,21 @@
+.search-wrapper {
+
+    width: 100%;
+
+}
+
+.input-field {
+
+    width: 95%;
+    margin: 0;
+    font-size: 1.2rem;
+
+}
+
+.search-icon {
+
+    width: 48px;
+    height: 48px;
+    margin: 0;
+    background: linear-gradient(45deg, rgb(153, 51, 255) 0%, rgb(255, 102, 102) 100%);
+}
